@@ -1,27 +1,22 @@
 ---
-title: Home
+title: Home | Your Class Dashboard
+description: A central hub for all your classes, including schedules, homework, tasks, and more.
+theme: just-the-docs
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to My Class Dashboard
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This page is your hub for all class-related information.
 
-More specifically, the created site:
+## My Classes
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- [Class 1: Data Science 40A](./data-science-40a.md)
+- [Class 2: Machine Learning 101](./machine-learning-101.md)
+- [Class 3: Computer Science 101](./computer-science-101.md)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+You can edit and update this page as the quarters go by.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
