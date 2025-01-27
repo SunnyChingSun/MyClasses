@@ -6,3 +6,6 @@ url: https://SunnyChingSun.github.io/MyClasses
 
 aux_links:
   Template Repository: https://SunnyChingSun.github.io/MyClasses
+
+plugins:
+  - jekyll-default-layout
